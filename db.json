@@ -1,0 +1,96 @@
+{
+  "settings": {
+    "siteName": "ᑌᑎᔕIᘔ ᗩᑎIᗰE",
+    "tagline": "Anime әлеміне премиум саяхат.",
+    "description": "Заманауи дизайнмен жасалған аниме каталогы және заңды көруге арналған платформа.",
+    "telegramUrl": "https://t.me/your_channel",
+    "seoTitle": "ᑌᑎᔕIᘔ ᗩᑎIᗰE — Anime әлемі",
+    "seoDescription": "ᑌᑎᔕIᘔ ᗩᑎIᗰE — аниме каталогы, фильмдер, сериялар және жаңа релиздер.",
+    "featuredId": 1
+  },
+  "anime": [
+    {
+      "id": 1,
+      "title": "Ауа райының баласы",
+      "altTitle": "Weathering with You",
+      "description": "Қаланың жаңбырлы күндерінде ерекше қабілеті бар қызбен танысқан жасөспірімнің оқиғасы.",
+      "year": 2019,
+      "rating": 8.4,
+      "type": "movie",
+      "status": "completed",
+      "ageRating": "12+",
+      "studio": "Demo Studio",
+      "poster": "/covers/weathering.svg",
+      "backdrop": "/covers/sky.svg",
+      "genres": ["Fantasy", "Drama", "Romance"],
+      "featured": true,
+      "published": true,
+      "episodes": [
+        {"id": 101, "number": 1, "title": "Фильм", "duration": "1:52:00", "videoUrl": "", "thumbnail": "/covers/sky.svg", "published": true}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Neon District",
+      "altTitle": "Neon District",
+      "description": "Неон жарығындағы мегаполис, құпия ұйым және қала тағдырын өзгерте алатын жас кейіпкер.",
+      "year": 2025,
+      "rating": 9.1,
+      "type": "series",
+      "status": "ongoing",
+      "ageRating": "16+",
+      "studio": "UNSIZ Original",
+      "poster": "/covers/neon.svg",
+      "backdrop": "/covers/neon-wide.svg",
+      "genres": ["Action", "Sci-Fi", "Mystery"],
+      "featured": false,
+      "published": true,
+      "episodes": [
+        {"id": 201, "number": 1, "title": "Бірінші сигнал", "duration": "24:10", "videoUrl": "", "thumbnail": "/covers/neon-wide.svg", "published": true},
+        {"id": 202, "number": 2, "title": "Жасырын қабат", "duration": "23:42", "videoUrl": "", "thumbnail": "/covers/neon-wide.svg", "published": true},
+        {"id": 203, "number": 3, "title": "Қараңғыда", "duration": "24:02", "videoUrl": "", "thumbnail": "/covers/neon-wide.svg", "published": true}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Moonlit Academy",
+      "altTitle": "Moonlit Academy",
+      "description": "Түнде ғана ашылатын академияда жас оқушы жұмбақ әлемнің ережелерін үйренеді.",
+      "year": 2024,
+      "rating": 8.8,
+      "type": "series",
+      "status": "completed",
+      "ageRating": "12+",
+      "studio": "Demo Studio",
+      "poster": "/covers/moon.svg",
+      "backdrop": "/covers/moon-wide.svg",
+      "genres": ["Fantasy", "School", "Mystery"],
+      "featured": false,
+      "published": true,
+      "episodes": [
+        {"id": 301, "number": 1, "title": "Ай сәулесі", "duration": "24:31", "videoUrl": "", "thumbnail": "/covers/moon-wide.svg", "published": true},
+        {"id": 302, "number": 2, "title": "Екінші есік", "duration": "24:08", "videoUrl": "", "thumbnail": "/covers/moon-wide.svg", "published": true}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Velocity Zero",
+      "altTitle": "Velocity Zero",
+      "description": "Қаладағы жоғары жылдамдықты жарыстарға қатысатын жас команданың достық пен бәсекеге толы жолы.",
+      "year": 2023,
+      "rating": 8.1,
+      "type": "series",
+      "status": "ongoing",
+      "ageRating": "12+",
+      "studio": "Demo Studio",
+      "poster": "/covers/velocity.svg",
+      "backdrop": "/covers/velocity-wide.svg",
+      "genres": ["Sports", "Action", "Drama"],
+      "featured": false,
+      "published": true,
+      "episodes": [
+        {"id": 401, "number": 1, "title": "Старт сызығы", "duration": "23:59", "videoUrl": "", "thumbnail": "/covers/velocity-wide.svg", "published": true}
+      ]
+    }
+  ]
+}
